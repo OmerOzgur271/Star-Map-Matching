@@ -1,3 +1,3 @@
 # Star-Map-Matching
 
-![alt text](https://github.com/OmerOzgur271/SheepDetection-YoloV3/blob/main/detections/detection_1.jpg)
+![alt text](https://github.com/OmerOzgur271/Star-Map-Matching/blob/main/Images/match.png)
